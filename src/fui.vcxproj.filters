@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\pch.cpp">
+      <Filter>pch</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\control.cpp">
+      <Filter>control</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\control_body.cpp">
+      <Filter>control</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\container_control.cpp">
+      <Filter>control types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\input_control.cpp">
+      <Filter>control types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\page.cpp">
+      <Filter>page</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\page_body.cpp">
+      <Filter>page</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\controls\button.cpp">
+      <Filter>standard controls</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\controls\buttonbox.cpp">
+      <Filter>standard controls</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\controls\checkbox.cpp">
+      <Filter>standard controls</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\controls\multiselect.cpp">
+      <Filter>standard controls</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\controls\numselect.cpp">
+      <Filter>standard controls</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\controls\radioselect.cpp">
+      <Filter>standard controls</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\controls\textfield.cpp">
+      <Filter>standard controls</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\ui.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\core.h" />
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\fui.h" />
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\std_controls.h" />
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\types.h" />
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\control.h">
+      <Filter>control</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\control_body.h">
+      <Filter>control</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\container_control.h">
+      <Filter>control types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\input_control.h">
+      <Filter>control types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\page.h">
+      <Filter>page</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\page_body.h">
+      <Filter>page</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\pch.h">
+      <Filter>pch</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\controls\button.h">
+      <Filter>standard controls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\controls\buttonbox.h">
+      <Filter>standard controls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\controls\checkbox.h">
+      <Filter>standard controls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\controls\multiselect.h">
+      <Filter>standard controls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\controls\numselect.h">
+      <Filter>standard controls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\controls\radioselect.h">
+      <Filter>standard controls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\controls\textfield.h">
+      <Filter>standard controls</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\include\fui\ui.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\josht\Downloads\Fungal-UI-main\Fungal-UI-main\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="control">
+      <UniqueIdentifier>{D7678194-CEBC-3B0A-8EBC-E01C22998FF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="control types">
+      <UniqueIdentifier>{8E7C4C2C-28A4-3702-9363-8A012367313E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="page">
+      <UniqueIdentifier>{D05A6282-A317-3865-A1F7-53C5D703FBF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pch">
+      <UniqueIdentifier>{49E939FF-B660-3313-BE62-C6F5D59BDDF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="standard controls">
+      <UniqueIdentifier>{2E6C98A1-BCDF-3853-AC34-05D933E8386D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui">
+      <UniqueIdentifier>{39F1B662-0606-3263-96C8-C2E0607DE7EA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

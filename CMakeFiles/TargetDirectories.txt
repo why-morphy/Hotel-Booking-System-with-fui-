@@ -1,0 +1,4 @@
+C:/Users/josht/Downloads/Fungal-UI-main/Fungal-UI-main/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/josht/Downloads/Fungal-UI-main/Fungal-UI-main/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/josht/Downloads/Fungal-UI-main/Fungal-UI-main/build/demo/CMakeFiles/demo.dir
+C:/Users/josht/Downloads/Fungal-UI-main/Fungal-UI-main/build/src/CMakeFiles/fui.dir
